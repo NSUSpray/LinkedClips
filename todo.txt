@@ -1,0 +1,4 @@
+﻿− more properties (launch modes and launch quantize – how, and really need?)
++ audio clips
+− automation envelope (how?)
+− undo
